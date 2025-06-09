@@ -268,7 +268,7 @@ Este proyecto está bajo la Licencia MIT - ver archivo [LICENSE](LICENSE) para d
 
 ## 👥 Autores
 
-- **Tu Nombre** - *Desarrollo inicial* - [TuGitHub](https://github.com/tu-usuario)
+- **maycolroa** - *Desarrollo inicial* - [TuGitHub](https://github.com/maycolroa)
 
 ## 🙏 Agradecimientos
 
