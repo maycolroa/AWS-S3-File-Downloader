@@ -1,0 +1,6 @@
+# Carpetas de descarga (NO subir archivos descargados)
+downloads/
+downloads_test/
+
+# Entorno virtual de Python
+venv/
